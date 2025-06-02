@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c3330f9-ff61-46e0-8f10-333316937a4a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleEnviroment2/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-754">
+              <caret line="124" column="13" lean-forward="false" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
+              <folding>
+                <marker date="1397030921499" expanded="true" signature="6:115" ph="..." />
+                <marker date="1397030921499" expanded="true" signature="145:5199" ph="{...}" />
+                <marker date="1397030921499" expanded="true" signature="165:5197" ph="{...}" />
+                <marker date="1397030921499" expanded="true" signature="198:308" ph="{...}" />
+                <marker date="1397030921499" expanded="true" signature="336:451" ph="{...}" />
+                <marker date="1397030921499" expanded="true" signature="480:602" ph="{...}" />
+                <marker date="1397030921499" expanded="true" signature="612:807" ph="/// Nastavak sa preošle seanse se ovjde nastavlja... ... " />
+                <marker date="1397030921499" expanded="true" signature="847:2898" ph="{...}" />
+                <marker date="1397030921499" expanded="true" signature="870:2855" ph="CORE PROGRAMMING - DIO 2 (nastavak)" />
+                <marker date="1397030921499" expanded="true" signature="927:1176" ph="ENUMERACIJE PRIMJER" />
+                <marker date="1397030921499" expanded="true" signature="1190:1296" ph="DELIMITER" />
+                <marker date="1397030921499" expanded="true" signature="1310:1933" ph="ENUMERACIJE PRIMJER 2" />
+                <marker date="1397030921499" expanded="true" signature="1646:1790" ph="/* Za preciznije dobavljanje metapodataka bolje je koristi &quot;typeof&quot; zato što ona ne moramo dati ... */" />
+                <marker date="1397030921499" expanded="true" signature="1947:2053" ph="DELIMITER" />
+                <marker date="1397030921499" expanded="true" signature="2067:2219" ph="ENUMERACIJE PRIMJER 3" />
+                <marker date="1397030921499" expanded="true" signature="2233:2339" ph="DELIMITER" />
+                <marker date="1397030921499" expanded="true" signature="2353:2671" ph="ENUMERACIJE PRIMJER 4" />
+                <marker date="1397030921499" expanded="true" signature="2685:2791" ph="DELIMITER" />
+                <marker date="1397030921499" expanded="true" signature="2908:5190" ph="M E T O D E" />
+                <marker date="1397030921499" expanded="true" signature="2938:5154" ph="ENUMERACIJE" />
+                <marker date="1397030921499" expanded="true" signature="3006:3764" ph="{...}" />
+                <marker date="1397030921499" expanded="true" signature="3038:3754" ph="{...}" />
+                <marker date="1397030921499" expanded="true" signature="3813:5134" ph="{...}" />
+                <marker date="1397030921499" expanded="true" signature="4445:5122" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Coll_IEnumerable.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Coll_Inter_IEnumerable/Coll_IEnumerable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3504">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1400963507892" expanded="true" signature="6:115" ph="..." />
+                <marker date="1400963507892" expanded="true" signature="149:6478" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="178:6476" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="224:2858" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="1225:1629" ph="PRIMJER 1" />
+                <marker date="1400963507892" expanded="true" signature="1408:1470" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="1487:1606" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="1643:1749" ph="DELIMITER" />
+                <marker date="1400963507892" expanded="true" signature="1763:2168" ph="PRIMJER 2" />
+                <marker date="1400963507892" expanded="true" signature="1947:2009" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="2026:2145" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="2182:2288" ph="DELIMITER" />
+                <marker date="1400963507892" expanded="true" signature="2302:2707" ph="PRIMJER 3" />
+                <marker date="1400963507892" expanded="true" signature="2486:2548" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="2565:2684" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="2868:3779" ph="PRIMJER 1 Metoda" />
+                <marker date="1400963507892" expanded="true" signature="2930:3759" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="2953:3340" ph="/* Ovdje želimo pokazati da sve kolekcije implementiraju IEnumerable&lt;T&gt; interface. Svaka foreach petlja ... */" />
+                <marker date="1400963507892" expanded="true" signature="3680:3748" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="3789:4929" ph="PRIMJER Metoda 2" />
+                <marker date="1400963507892" expanded="true" signature="3851:4909" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="3874:3956" ph="/* Primjer ICollection Interfacea ... */" />
+                <marker date="1400963507892" expanded="true" signature="4939:6052" ph="PRIMJER Metoda 3" />
+                <marker date="1400963507892" expanded="true" signature="5001:6032" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="5024:5150" ph="/* U ovom primjeru ispitujemo isReadOnly Porpreti od ICollection interface-a. ... */" />
+                <marker date="1400963507892" expanded="true" signature="5724:5797" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="5814:5907" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="5954:6022" ph="{...}" />
+                <marker date="1400963507892" expanded="true" signature="6062:6183" ph="PRIMJER Metoda 4" />
+                <marker date="1400963507892" expanded="true" signature="6096:6163" ph="/* static void PrimjerMetoda4() ... */" />
+                <marker date="1400963507892" expanded="true" signature="6193:6470" ph="NapisiPunuCrtu40 Metoda" />
+                <marker date="1400963507892" expanded="true" signature="6282:6451" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1374" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APRESS_CCharp5_0_FULL (95 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APRESS_CCharp5_0_FULL (95 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="70 -536" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chaper 2 system.IO" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APRESS_CCharp5_0_FULL (95 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1. CORE PROGRAMMING 1" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anathomy of Simple Program" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APRESS_CCharp5_0_FULL (95 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1. CORE PROGRAMMING 1" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anathomy of Simple Program" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DATA STRUKTURE" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APRESS_CCharp5_0_FULL (95 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1. CORE PROGRAMMING 1" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anathomy of Simple Program" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DATA STRUKTURE" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Coll_Inter_IEnumerable" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APRESS_CCharp5_0_FULL (95 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1. CORE PROGRAMMING 1" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anathomy of Simple Program" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CORE" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APRESS_CCharp5_0_FULL (95 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1. CORE PROGRAMMING 1" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Anathomy of Simple Program" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CORE" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConsoleEnviroment2" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c3330f9-ff61-46e0-8f10-333316937a4a" name="Default" comment="" />
+      <created>1484321655997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484321655997</updated>
+      <workItem from="1484321658724" duration="1042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1042000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ConsoleEnviroment2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-754">
+          <caret line="124" column="13" lean-forward="false" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
+          <folding>
+            <marker date="1397030921499" expanded="true" signature="6:115" ph="..." />
+            <marker date="1397030921499" expanded="true" signature="145:5199" ph="{...}" />
+            <marker date="1397030921499" expanded="true" signature="165:5197" ph="{...}" />
+            <marker date="1397030921499" expanded="true" signature="198:308" ph="{...}" />
+            <marker date="1397030921499" expanded="true" signature="336:451" ph="{...}" />
+            <marker date="1397030921499" expanded="true" signature="480:602" ph="{...}" />
+            <marker date="1397030921499" expanded="true" signature="612:807" ph="/// Nastavak sa preošle seanse se ovjde nastavlja... ... " />
+            <marker date="1397030921499" expanded="true" signature="847:2898" ph="{...}" />
+            <marker date="1397030921499" expanded="true" signature="870:2855" ph="CORE PROGRAMMING - DIO 2 (nastavak)" />
+            <marker date="1397030921499" expanded="true" signature="927:1176" ph="ENUMERACIJE PRIMJER" />
+            <marker date="1397030921499" expanded="true" signature="1190:1296" ph="DELIMITER" />
+            <marker date="1397030921499" expanded="true" signature="1310:1933" ph="ENUMERACIJE PRIMJER 2" />
+            <marker date="1397030921499" expanded="true" signature="1646:1790" ph="/* Za preciznije dobavljanje metapodataka bolje je koristi &quot;typeof&quot; zato što ona ne moramo dati ... */" />
+            <marker date="1397030921499" expanded="true" signature="1947:2053" ph="DELIMITER" />
+            <marker date="1397030921499" expanded="true" signature="2067:2219" ph="ENUMERACIJE PRIMJER 3" />
+            <marker date="1397030921499" expanded="true" signature="2233:2339" ph="DELIMITER" />
+            <marker date="1397030921499" expanded="true" signature="2353:2671" ph="ENUMERACIJE PRIMJER 4" />
+            <marker date="1397030921499" expanded="true" signature="2685:2791" ph="DELIMITER" />
+            <marker date="1397030921499" expanded="true" signature="2908:5190" ph="M E T O D E" />
+            <marker date="1397030921499" expanded="true" signature="2938:5154" ph="ENUMERACIJE" />
+            <marker date="1397030921499" expanded="true" signature="3006:3764" ph="{...}" />
+            <marker date="1397030921499" expanded="true" signature="3038:3754" ph="{...}" />
+            <marker date="1397030921499" expanded="true" signature="3813:5134" ph="{...}" />
+            <marker date="1397030921499" expanded="true" signature="4445:5122" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coll_Inter_IEnumerable/Coll_IEnumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3504">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1400963507892" expanded="true" signature="6:115" ph="..." />
+            <marker date="1400963507892" expanded="true" signature="149:6478" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="178:6476" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="224:2858" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="1225:1629" ph="PRIMJER 1" />
+            <marker date="1400963507892" expanded="true" signature="1408:1470" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="1487:1606" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="1643:1749" ph="DELIMITER" />
+            <marker date="1400963507892" expanded="true" signature="1763:2168" ph="PRIMJER 2" />
+            <marker date="1400963507892" expanded="true" signature="1947:2009" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="2026:2145" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="2182:2288" ph="DELIMITER" />
+            <marker date="1400963507892" expanded="true" signature="2302:2707" ph="PRIMJER 3" />
+            <marker date="1400963507892" expanded="true" signature="2486:2548" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="2565:2684" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="2868:3779" ph="PRIMJER 1 Metoda" />
+            <marker date="1400963507892" expanded="true" signature="2930:3759" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="2953:3340" ph="/* Ovdje želimo pokazati da sve kolekcije implementiraju IEnumerable&lt;T&gt; interface. Svaka foreach petlja ... */" />
+            <marker date="1400963507892" expanded="true" signature="3680:3748" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="3789:4929" ph="PRIMJER Metoda 2" />
+            <marker date="1400963507892" expanded="true" signature="3851:4909" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="3874:3956" ph="/* Primjer ICollection Interfacea ... */" />
+            <marker date="1400963507892" expanded="true" signature="4939:6052" ph="PRIMJER Metoda 3" />
+            <marker date="1400963507892" expanded="true" signature="5001:6032" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="5024:5150" ph="/* U ovom primjeru ispitujemo isReadOnly Porpreti od ICollection interface-a. ... */" />
+            <marker date="1400963507892" expanded="true" signature="5724:5797" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="5814:5907" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="5954:6022" ph="{...}" />
+            <marker date="1400963507892" expanded="true" signature="6062:6183" ph="PRIMJER Metoda 4" />
+            <marker date="1400963507892" expanded="true" signature="6096:6163" ph="/* static void PrimjerMetoda4() ... */" />
+            <marker date="1400963507892" expanded="true" signature="6193:6470" ph="NapisiPunuCrtu40 Metoda" />
+            <marker date="1400963507892" expanded="true" signature="6282:6451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

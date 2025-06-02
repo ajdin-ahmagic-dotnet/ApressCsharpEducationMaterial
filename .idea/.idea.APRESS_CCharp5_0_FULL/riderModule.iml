@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 1/Aan_Of_Simple/SimpleProgram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Delegates/Delegates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Interfaces/MojaBiblioteka" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Interfaces/MojProgram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Kolekcije/ArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Action_Func_Delegates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Ano_Methods_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Anonim_Types_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../ArraySimulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../BazneKlase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../BrowseFileSytem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Cards_Library" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Coll_ArrayList_NonGen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Coll_Inter_IEnumerable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Collection_EX_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Collection_EX_02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Collection_Nullable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Collection_Yield" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Collections_Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Collections_Arrays_02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Collections_Basic_Ex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Custom_Generic_Method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Custom_Generic_Struct" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../DataStructures_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Delegates3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Delegates_01_Simple_Ex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Delegates_02_CarDel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Delegates_03_Generic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Delegates_CarDelMethod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Events_01_AutoEvent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Exception_Custom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Exception_Handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Exception_Proces_Multiple" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Exending_Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Exten_Methods_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FIleInfo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Generic_Coll_List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Generic_Method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Indexers_01_Simple" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Inter_Custom_Yield" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Inter_IClonable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Inter_IComparable_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Inter_IEnumerable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Interface_02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Interface_03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Interface_04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Interface_05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Interfaces1_Ilu_2012" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Interfaces_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Kolekcija_Pokus_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Konverzije_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Labmda_01_Simple" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Lambda_02_Multi_Params" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Lambda_03_Auto_Klasa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Library" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../LinearArraySearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../LingOverArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../LINQ_GroundUp_MSDN" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Linq_Koristeci_Enumerable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../LinqIzrazi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../LinqNaKolekcije" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../LinqReturnValues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Metode1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Metode2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Metode_PassbyValue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Metode_RefValue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Non_Generic_Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Object_Lifetime_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Observable_Collection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../OOP_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../OOP_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../OOP_3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../OOP_Abstract_Casess" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../OOP_Employee" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../OOP_Employee_Simulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../OOP_Inheritance_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../OOP_Objects_Overrides" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Operators_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Polimofizam_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../REVIZIJA/LINQ/LINQ_MSDN" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../REVIZIJA/LINQ/REV_LinqOverArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Strings_01_SConstructor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Strings_02_SMethods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../SystemMenagment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../TestForm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../TestLibrary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../TypeScriptDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../VSRecepies/DataManipulation/GenericClass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../WPFClasses" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 1/Aan_Of_Simple/SimpleProgram/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 1/Aan_Of_Simple/SimpleProgram/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Delegates/Delegates/Delegates2/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Delegates/Delegates/Delegates2/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Delegates/Delegates/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Delegates/Delegates/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Interfaces/MojProgram/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Interfaces/MojProgram/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Interfaces/MojaBiblioteka/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Interfaces/MojaBiblioteka/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Kolekcije/ArrayList/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../1. CORE PROGRAMMING 2/Kolekcije/ArrayList/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Action_Func_Delegates/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Action_Func_Delegates/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Ano_Methods_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Ano_Methods_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Anonim_Types_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Anonim_Types_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ArraySimulation/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ArraySimulation/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BazneKlase/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BazneKlase/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BrowseFileSytem/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BrowseFileSytem/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Cards_Library/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Cards_Library/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Coll_ArrayList_NonGen/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Coll_ArrayList_NonGen/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Coll_Inter_IEnumerable/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Coll_Inter_IEnumerable/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collection_EX_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collection_EX_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collection_EX_02/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collection_EX_02/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collection_Nullable/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collection_Nullable/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collection_Yield/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collection_Yield/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collections_Arrays/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collections_Arrays/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collections_Arrays_02/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collections_Arrays_02/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collections_Basic_Ex/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Collections_Basic_Ex/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment2/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment2/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment3/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment3/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment4/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleEnviroment4/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Custom_Generic_Method/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Custom_Generic_Method/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Custom_Generic_Struct/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Custom_Generic_Struct/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../DataStructures_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../DataStructures_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates3/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates3/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates_01_Simple_Ex/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates_01_Simple_Ex/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates_02_CarDel/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates_02_CarDel/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates_03_Generic/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates_03_Generic/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates_CarDelMethod/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Delegates_CarDelMethod/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Events_01_AutoEvent/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Events_01_AutoEvent/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exception_Custom/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exception_Custom/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exception_Handling/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exception_Handling/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exception_Proces_Multiple/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exception_Proces_Multiple/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exending_Interface/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exending_Interface/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exten_Methods_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exten_Methods_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FIleInfo/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FIleInfo/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Generic_Coll_List/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Generic_Coll_List/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Generic_Method/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Generic_Method/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Indexers_01_Simple/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Indexers_01_Simple/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Inter_Custom_Yield/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Inter_Custom_Yield/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Inter_IClonable/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Inter_IClonable/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Inter_IComparable_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Inter_IComparable_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Inter_IEnumerable/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Inter_IEnumerable/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interface_02/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interface_02/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interface_03/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interface_03/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interface_04/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interface_04/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interface_05/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interface_05/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interfaces1_Ilu_2012/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interfaces1_Ilu_2012/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interfaces_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Interfaces_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Kolekcija_Pokus_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Kolekcija_Pokus_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Konverzije_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Konverzije_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LINQ_GroundUp_MSDN/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LINQ_GroundUp_MSDN/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Labmda_01_Simple/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Labmda_01_Simple/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Lambda_02_Multi_Params/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Lambda_02_Multi_Params/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Lambda_03_Auto_Klasa/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Lambda_03_Auto_Klasa/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Library/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Library/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinearArraySearch/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinearArraySearch/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LingOverArray/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LingOverArray/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinkedList/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinkedList/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinqIzrazi/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinqIzrazi/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinqNaKolekcije/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinqNaKolekcije/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinqReturnValues/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LinqReturnValues/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Linq_Koristeci_Enumerable/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Linq_Koristeci_Enumerable/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Metode1/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Metode1/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Metode2/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Metode2/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Metode_PassbyValue/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Metode_PassbyValue/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Metode_RefValue/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Metode_RefValue/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Non_Generic_Problems/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Non_Generic_Problems/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_1/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_1/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_2/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_2/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_3/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_3/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Abstract_Casess/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Abstract_Casess/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Employee/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Employee/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Employee_Simulation/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Employee_Simulation/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Inheritance_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Inheritance_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Objects_Overrides/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../OOP_Objects_Overrides/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Object_Lifetime_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Object_Lifetime_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Observable_Collection/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Observable_Collection/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Operators_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Operators_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Polimofizam_01/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Polimofizam_01/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../REVIZIJA/LINQ/LINQ_MSDN/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../REVIZIJA/LINQ/LINQ_MSDN/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../REVIZIJA/LINQ/REV_LinqOverArray/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../REVIZIJA/LINQ/REV_LinqOverArray/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Strings_01_SConstructor/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Strings_01_SConstructor/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Strings_02_SMethods/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Strings_02_SMethods/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SystemMenagment/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SystemMenagment/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestForm/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestForm/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestLibrary/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestLibrary/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TypeScriptDemo/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TypeScriptDemo/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../VSRecepies/DataManipulation/GenericClass/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../VSRecepies/DataManipulation/GenericClass/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WPFClasses/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WPFClasses/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

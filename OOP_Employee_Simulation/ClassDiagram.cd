@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_Employee_Simulation.BenefitPackage" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BenefitPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Employee_Simulation.EmployeeAbstract">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="OOP_Employee_Simulation.EmployeeAbstract.NestedBenefitPackage">
+        <Compartments>
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Enum Name="OOP_Employee_Simulation.EmployeeAbstract.NestedBenefitPackage.BenefitPackageLevel">
+            <TypeIdentifier>
+              <NewMemberFileName>EmployeeAbstract.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Enum>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>EmployeeAbstract.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAIAgAggAAAEAIAEQQAAAAAAAkAAAAgQAAAQA=</HashCode>
+      <FileName>EmployeeAbstract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Employee_Simulation.EmployeePartial" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAggAAAEAIAAQQAAAAAAAgAAAAAQAAAQA=</HashCode>
+      <FileName>EmployeePartial0.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Employee_Simulation.EmployeeProp" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="OOP_Employee_Simulation.EmployeeProp.NestedBenefitPackage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EmployeeProp.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAIAgAggAAAEAIAEQQAAAAAAAkAAAAgQAAAQA=</HashCode>
+      <FileName>EmployeeProp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Employee_Simulation.EmployeeSimulation" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>EmployeeSimulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Employee_Simulation.Menager" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQA=</HashCode>
+      <FileName>Menager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Employee_Simulation.PTSalesPreson" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PTSalesPreson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Employee_Simulation.SalesPerson" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgAAAAAAAAAQA=</HashCode>
+      <FileName>SalesPerson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
