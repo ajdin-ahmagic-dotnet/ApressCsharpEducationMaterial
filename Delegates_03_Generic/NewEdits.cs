@@ -6,10 +6,10 @@ public class NewEdits
 	{
 	}
 
-    // MAke new delegate for the new edits
+	// MAke new delegate for the new edits
 	public delegate void NewEditDelegate(string message);
 
-    // Method to be called by the delegate
+	// Method to be called by the delegate
 	public void DisplayMessage(string message)
 	{
 		Console.WriteLine(message);
