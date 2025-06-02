@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -36,11 +37,11 @@ namespace FIleInfo
             if(file.Exists)
             {
                 Console.Write("Datoteka Kreirana: ");
-                Console.WriteLine(file.CreationTime.ToString());
+                Console.WriteLine(file.CreationTime.ToString(CultureInfo.InvariantCulture));
                 Console.Write("Datoteka Ažurirana: ");
-                Console.WriteLine(file.LastWriteTime.ToString());
+                Console.WriteLine(file.LastWriteTime.ToString(CultureInfo.InvariantCulture));
                 Console.Write("Datoteka Pristupljena:");
-                Console.WriteLine(file.LastAccessTime.ToString());
+                Console.WriteLine(file.LastAccessTime.ToString(CultureInfo.InvariantCulture));
                 Console.Write("Datoteka Veličine: ");
                 Console.WriteLine(file.Length.ToString());
                 Console.Write("Atributi Datoteke: ");
@@ -51,24 +52,28 @@ namespace FIleInfo
             // Prikaži Informacije Direktorija:
             DirectoryInfo dir = file.Directory;
 
-            Console.WriteLine("Provjera Direktorija: {0}", dir.Name);
-            Console.WriteLine("U Direktoriju: {0}", dir.Parent.Name);
-            Console.Write("Direktorij postoji: ");
-            Console.WriteLine(dir.Exists.ToString());
-
-            if(dir.Exists)
+            if (dir != null)
             {
-                Console.Write("Direktroij Kreiran: ");
-                Console.WriteLine(dir.CreationTime.ToString());
-                Console.Write("Direktorij Ažuriran: ");
-                Console.WriteLine(dir.LastWriteTime.ToString());
-                Console.Write("Direktorij Pristupljen:");
-                Console.WriteLine(dir.LastAccessTime.ToString());
-                Console.Write("Atributi Direktorija: ");
-                Console.WriteLine(dir.Attributes.ToString());
-                Console.Write("Direktorij Sadrži: ");
-                Console.WriteLine(dir.GetFiles().Length.ToString() + " datoteke");
+                Console.WriteLine("Provjera Direktorija: {0}", dir.Name);
+                if (dir.Parent != null) Console.WriteLine("U Direktoriju: {0}", dir.Parent.Name);
+                Console.Write("Direktorij postoji: ");
+                Console.WriteLine(dir.Exists.ToString());
+
+                if (dir.Exists)
+                {
+                    Console.Write("Direktroij Kreiran: ");
+                    Console.WriteLine(dir.CreationTime.ToString(CultureInfo.InvariantCulture));
+                    Console.Write("Direktorij Ažuriran: ");
+                    Console.WriteLine(dir.LastWriteTime.ToString(CultureInfo.InvariantCulture));
+                    Console.Write("Direktorij Pristupljen:");
+                    Console.WriteLine(dir.LastAccessTime.ToString(CultureInfo.InvariantCulture));
+                    Console.Write("Atributi Direktorija: ");
+                    Console.WriteLine(dir.Attributes.ToString());
+                    Console.Write("Direktorij Sadrži: ");
+                    Console.WriteLine(dir.GetFiles().Length.ToString() + " datoteke");
+                }
             }
+
             Console.WriteLine();
 
             // Prikaži informacije Diska:
