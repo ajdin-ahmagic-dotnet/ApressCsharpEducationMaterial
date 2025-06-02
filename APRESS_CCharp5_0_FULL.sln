@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. CORE PROGRAMMING 1", "1. CORE PROGRAMMING 1", "{BB8186AC-F954-4083-8259-401261AC753C}"
 EndProject
@@ -72,10 +72,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{C9C69404-548F-4FD1-985B-4D692905BDE0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Custom", "Exception_Custom\Exception_Custom.csproj", "{E454A009-87EE-42FC-8292-7EC4819CE14A}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TypeScriptDemo", "TypeScriptDemo", "{F57E5B30-C672-48E2-9283-A960AFB5D69B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeScriptDemo", "TypeScriptDemo\TypeScriptDemo.csproj", "{F8314B04-9ED4-4301-AC66-D84137668896}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Proces_Multiple", "Exception_Proces_Multiple\Exception_Proces_Multiple.csproj", "{A4EB347F-94A6-47B8-87F6-A4902E4291DA}"
 EndProject
@@ -381,10 +377,6 @@ Global
 		{E454A009-87EE-42FC-8292-7EC4819CE14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E454A009-87EE-42FC-8292-7EC4819CE14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E454A009-87EE-42FC-8292-7EC4819CE14A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F8314B04-9ED4-4301-AC66-D84137668896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F8314B04-9ED4-4301-AC66-D84137668896}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F8314B04-9ED4-4301-AC66-D84137668896}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F8314B04-9ED4-4301-AC66-D84137668896}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A4EB347F-94A6-47B8-87F6-A4902E4291DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A4EB347F-94A6-47B8-87F6-A4902E4291DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4EB347F-94A6-47B8-87F6-A4902E4291DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -691,7 +683,6 @@ Global
 		{FA591DEC-D688-4B83-ACCA-76988D36A690} = {C53229D7-A810-43F9-89A1-58657CC57B65}
 		{C9C69404-548F-4FD1-985B-4D692905BDE0} = {DCDF846A-A041-4E4F-9DBA-249FF3067FF2}
 		{E454A009-87EE-42FC-8292-7EC4819CE14A} = {DCDF846A-A041-4E4F-9DBA-249FF3067FF2}
-		{F8314B04-9ED4-4301-AC66-D84137668896} = {F57E5B30-C672-48E2-9283-A960AFB5D69B}
 		{A4EB347F-94A6-47B8-87F6-A4902E4291DA} = {DCDF846A-A041-4E4F-9DBA-249FF3067FF2}
 		{36A231FB-E060-47AD-8763-67CDD5EB39E0} = {B2D77452-F7B0-41B2-8127-278A3C3BB9DD}
 		{C53229D7-A810-43F9-89A1-58657CC57B65} = {B2D77452-F7B0-41B2-8127-278A3C3BB9DD}
@@ -788,6 +779,7 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45
+		SolutionGuid = {5FF6F5E9-3EA6-46D9-BE0B-0B6AC4E6005B}
 	EndGlobalSection
 	GlobalSection(Performance) = preSolution
 		HasPerformanceSessions = true

@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace Anonim_Types_01
 {
-    class Anonim_Tip_Prog
+    public class AnonimTipProg
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             NapisiPunuCrtu40("╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗");
             NapisiPunuCrtu40("║                         ╔════════════════════════════════════════════════════════════════════════════════╗                         ║");
@@ -42,7 +40,7 @@ namespace Anonim_Types_01
             // Napravi anonimni tip koji predstavlja Auto:
             var mojAuto = new { Model = "BMW", Boja = "Crna", TrnutnaBrzina = 130 };
 
-            
+
 
             // Sada Prikaži boju i Model auta:
             Console.WriteLine("Moj auto je: {0} Boja: {1}.", mojAuto.Model, mojAuto.Boja);
@@ -78,7 +76,7 @@ namespace Anonim_Types_01
             #endregion
 
             #region Anoinimni tipovi u Anonimnim Tipovima!
-            
+
             // Moguće je kreirati anonimni tip i onda u njega staviti novi anonimni tip.
             // Evo primjera jedne takve situacije:
             var kupiStavku = new
@@ -95,8 +93,8 @@ namespace Anonim_Types_01
             #region ZAKLJUČAK I PAR ČINJENICA
             /*--------------------------------------------------------------------------------------------------
              * U ovom trenutku zasigurno se pitate zašto i kada koristiti ovu značajku C# jezika? Anonimne     *
-             * tipve bi trebali koristiti u parovama najčešće u LINQ naredbama o kojim će biti riječi kasnije. * 
-             * Nikad ne bi trebali da napustimo jako tipirane klase i strukture, jer anonimni tipovi imaju     * 
+             * tipve bi trebali koristiti u parovama najčešće u LINQ naredbama o kojim će biti riječi kasnije. *
+             * Nikad ne bi trebali da napustimo jako tipirane klase i strukture, jer anonimni tipovi imaju     *
              * mnoge limitacije od kojih možemo nabrojati:                                                     *
              * 1. Vi ne kontrolirate ime anonimnog tipa.                                                       *
              * 2. Anonimni tipvi uvjek produžavaju System.Obejct.                                              *
@@ -104,7 +102,7 @@ namespace Anonim_Types_01
              * 4. Anonimni tipve ne podržavaju događaje, posebne metode, posebne operatore, i posebne overajde.*
              * 5. Anonimni tipovi su uvjek implicitno zaključani "sealed".                                     *
              * 6. Anonimni tipovi su uvjek konstruirani sa osnovnim konstruktorom.                             *
-             *-------------------------------------------------------------------------------------------------*/ 
+             *-------------------------------------------------------------------------------------------------*/
             #endregion
 
 
@@ -119,12 +117,12 @@ namespace Anonim_Types_01
         {
             // Napravi anonimni tip koristeći dolazeće argumente "args"
             var auto = new { Model = model, Boja = boja, Brzina = trBrz };
- 
+
             // Možemo primjetiti da sa ovim možemo koristiti podatke iz osobina!
             Console.WriteLine("Vi imate: {0} Boje: {1} Km/h: {2} ", auto.Model, auto.Boja, auto.Brzina);
 
             // Anonimni tipvi ima posebnu implementaciju za svaku virtualnu metodu od System.Object-a npr:
-            // Pošto kad kreiramo anonimni tip, kompajler iza scene napravi klasu za nas koja ima implementaciju overloada 
+            // Pošto kad kreiramo anonimni tip, kompajler iza scene napravi klasu za nas koja ima implementaciju overloada
             // ToString() metode onda dobijemo rezulat koji se vidi kad se program pokrene...
             Console.WriteLine("ToString() == {0}.", auto.ToString());
         }
@@ -138,7 +136,7 @@ namespace Anonim_Types_01
 
             Console.WriteLine("| {0,-13:} | {1,-2:} | {2,-13:} | {3,-20:} | {4:C2} |", zaposlenik.Ime, zaposlenik.Godine, zaposlenik.OIB, zaposlenik.Adresa, zaposlenik.Placa);
 
-           
+
         }
         #endregion
 
@@ -166,7 +164,7 @@ namespace Anonim_Types_01
                 Console.WriteLine("Isti Anonimni Objekt");
             else
                 Console.WriteLine("Nije Isti Anonimni Objekt");
-            
+
             // Da li ih se smatra jednakim kad se koristi operator jednakosti "==":
             // Ova usporadba neće rezultirati jednakim rezulataom zato što anonimni tipovi
             // ne prihvaćaju overloadiranu verziju "==" i "!=" opratora, te upoređuju reference
